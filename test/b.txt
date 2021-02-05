@@ -1,0 +1,3 @@
+放弃工作区的修改
+git checkout -- readme.txt
+git restore -- readme.txt
